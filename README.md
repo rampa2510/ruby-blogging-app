@@ -7,4 +7,6 @@ I have seen a lot of good comments about ruby on social forums. It is always men
 # How I plan to make this
 I will first go through the [rails doc](https://guides.rubyonrails.org/) and implement the blog application on their [getting started guide](https://guides.rubyonrails.org/getting_started.html). Once this is done I will implement my own app but lets see. I am thinking of recording my thoughts here each day as I make my progress but who knows I may or may not who cares anyway.
 
-
+# Dev Log
+## 5 may Sun 2024
+I just create dmy first ruby on rails webage and it was pretty easy to do it. If I had to do the same thing with react and node I would have to first create 2 seperate projects then connect them which would have taken 30 mins max. Here I defined the route ran a simple cli command and viola I have the application and my own custom page ready with me. This is the best part abot battries included framework everything works out of the box. Some confusing syntax but I guess its my frist time using rail so its a given. First impression is great
